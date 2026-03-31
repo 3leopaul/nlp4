@@ -63,7 +63,3 @@ streamlit run app.py
 - **The "Neutral" Problem**: 3-star reviews are often linguistically polarized (extreme praise or complaints). Treating star-rating as a regression problem was the most effective workaround.
 - **Language Matters**: Using domain-specific French models (CamemBERT) yielded a massive performance jump compared to generic English-based models used on translated text.
 - **Customer Trends**: "Rapport Qualité Prix" is the dominant predictor of positive sentiment, while processing delays for "Non-responsible accidents" drive the majority of negative sentiment.
-
----
-**Deadline**: 31 mars 2026  
-**Tools**: Gemini 3 Flash via Antigravity Assistant.
